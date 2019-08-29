@@ -1,0 +1,9 @@
+[submodule "baseline/OpenNRE"]
+	path = baseline/OpenNRE
+	url = https://github.com/thunlp/OpenNRE.git
+[submodule "baseline/RESIDE"]
+	path = baseline/RESIDE
+	url = https://github.com/malllabiisc/RESIDE.git
+[submodule "baseline/HNRE"]
+	path = baseline/HNRE
+	url = https://github.com/thunlp/HNRE.git
