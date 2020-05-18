@@ -47,7 +47,7 @@ You can also use the docker image from [DockerHub](https://hub.docker.com/r/xden
 ### Installation and Quick Start
 1. Clone the repository
 2. Install all the required package or use the docker image above
-3. Prepare data, config, trained model. The configs used in the paper is already included. You can get the trained model from [Box](). The final structure should look like this:
+3. Prepare data, config, trained model. The configs used in the paper is already included. You can get the trained model from [Box](https://osu.box.com/v/REDS2-EMNLP19). The final structure should look like this:
 ```
 REDS2
 |-- ... 
